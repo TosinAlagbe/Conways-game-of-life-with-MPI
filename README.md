@@ -18,5 +18,3 @@ Some intersting inputs have been added  such as ```spacegun.txt``` to be used in
 Comment out the sections in ```main.cpp``` as needed to change input formats.
 Parallel program should be run using an MPI library/implementation.
 
-### Late submission
-Forgot to add the sfml(post-processor) library dlls to enable the executable run. Submitted this by 12.06 am. 6 minutes past the deadline.
